@@ -40,18 +40,6 @@ This bootcamp focuses on:
 
 ---
 
-# 📂 Repository Structure
-
-```bash
-materials/      # Course notes & PDFs
-labs/           # Practice labs
-scripts/        # Bash scripts & examples
-certificates/   # Sample certificates
-resources/      # Extra references
-```
-
----
-
 # 👨‍💻 Instructor
 
 Yehya Hamdy Shehata
